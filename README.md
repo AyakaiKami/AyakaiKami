@@ -18,7 +18,7 @@
 - **Web Exploitation** (SQLMap, Burp Suite, Gobuster, FFUF)
 - **Network Security** (Nmap, Netcat, CrackMapExec, Impacket-scripts)
 - **Reverse Engineering** (Ghidra, GDB, Cutter)
-- **Cryptography** (HashCat, John)
+- **Cryptography** (HashCat, John the Ripper)
 - **Miscellaneous** (Metasploit, familiar with Mimikatz, LinPEAS, WinPEAS)
 
 #### Programming and Scripting:
@@ -28,5 +28,11 @@
 - **Familiar with Java, PHP, and JavaScript**
 
 #### Miscellaneous:
-- **Familiar with Dockeres and Virtual Machines**
+- **Familiar with Docker and Virtual Machines**
 - **Familiar with WindowsAPI**
+
+## 📂 Projects:
+-  #### [WriteUps](https://github.com/AyakaiKami/WriteUps) (**Ongoing**)
+-  #### [Home Projects](https://github.com/AyakaiKami/HomeProjects) (**Ongoing**)
+-  #### [Simple Problems In Assembly](https://github.com/AyakaiKami/Simple-Problems-In-Assembly)
+-  #### [NetMap](https://github.com/AyakaiKami/NetMap)
