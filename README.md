@@ -2,7 +2,7 @@
 ### Welcome to my GitHub profile.
 
 ## 🧑‍💻 About Me:
-### I'm a cybersecurity enthusiast with a constant drive to expand my knowledge in the field. I have a strong interest in **ethical hacking**, **vulnerability research**, and **penetration testing**. My passion lies in understanding the lifecycle of vulnerabilities—how they arise, how they are identified and exploited, and most importantly, how they can be mitigated.
+### I'm a cybersecurity enthusiast with a constant drive to expand my knowledge in the field. I have a strong interest in *ethical hacking*, *vulnerability research*, and *penetration testing*. My passion lies in understanding the lifecycle of vulnerabilities—how they arise, how they are identified and exploited, and most importantly, how they can be mitigated.
 ## 🔗 Links:
 -  #### [HackTheBox](https://app.hackthebox.com/profile/1893408)
 -  #### [TryHackMe](https://tryhackme.com/r/p/stefancristea27)
