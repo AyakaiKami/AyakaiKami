@@ -36,7 +36,7 @@
 
 ## 📂 Projects:
 -  #### [WriteUps](https://github.com/AyakaiKami/WriteUps) (**Ongoing**)
--  #### [Home Projects](https://github.com/AyakaiKami/HomeProjects) (**Ongoing**)
+-  #### [C2 Server and Malware Deveolpment](https://github.com/AyakaiKami/C2_Malware_Dev) (**Ongoing**)
 -  #### [Http-Sniffer](https://github.com/AyakaiKami/Keep-Your-Eyes-Peeled-HTTP-Sniffer-)
 -  #### [Simple Problems In Assembly](https://github.com/AyakaiKami/Simple-Problems-In-Assembly)
 -  #### [NetMap](https://github.com/AyakaiKami/NetMap)
