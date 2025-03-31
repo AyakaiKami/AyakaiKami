@@ -1,9 +1,8 @@
 # Hi there! My name is Stefan.
-### Welcome to my GitHub profile.
 
-## 🧑‍💻 About Me:
+## 🧑‍💻 whoami:
 ### I'm a cybersecurity enthusiast with a constant drive to expand my knowledge in the field. I have a strong interest in *ethical hacking*, *vulnerability research*, and *penetration testing*. My passion lies in understanding the lifecycle of vulnerabilities—how they arise, how they are identified and exploited, and most importantly, how they can be mitigated.
-## 🔗 Links:
+## 🔗 Links (find / -type l 2>/dev/null):
 -  #### [HackTheBox](https://app.hackthebox.com/profile/1893408)
 -  #### [TryHackMe](https://tryhackme.com/r/p/stefancristea27)
 
